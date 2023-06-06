@@ -18,3 +18,5 @@ export const deleteProject = async (id) => {
 export const updateProject = async (id, user) => {
     return await axios.put(`${usersUrl}/${id}`, user)
 }
+
+
