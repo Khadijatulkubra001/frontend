@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "proxy": "https://projects-backend-tjjy.onrender.com/",
+  "homepage": "https://projects-kjep.onrender.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
