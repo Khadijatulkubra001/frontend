@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "proxy": "http://clonedbackend:9000/",
+  "proxy": "https://projects-backend-tjjy.onrender.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
